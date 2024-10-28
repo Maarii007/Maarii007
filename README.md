@@ -1,4 +1,4 @@
-- Meu nome é Maria Clara e eu tenho uma enorme fascinação pela área da programação desde os meus 12 anos de idade 👧🏻
+- Meu nome é Maria Clara e eu tenho uma enorme fascinação pela área da programação desde criança 👧🏻
   
 - Sou estudante de Engenharia de Software na faculdade Unicesumar 👩🏻‍💻
   
