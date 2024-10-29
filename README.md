@@ -4,7 +4,7 @@
   
 - Sou estudante de Engenharia de Software na faculdade Unicesumar 👩🏻‍💻
   
-- Os projetos que irá encontra aqui permeiam muitos caminhos, e para explora-los basta um simples clique 😉
+- Os projetos que irá encontrar aqui permeiam muitos caminhos, e para explorá-los basta um simples clique 😉
 
 ## Dados e Status
 
